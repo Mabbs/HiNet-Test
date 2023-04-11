@@ -1,3 +1,2 @@
-My GitHub Contributions Calendar
-================================
-This repository was generated with [GitHub Contributions](https://github.com/IonicaBizau/github-contributions) generator. Thanks, [@IonicaBizau](https://github.com/IonicaBizau).
+# HiNet-Test
+The Address is <https://185-199-108-153.dynamic-ip.hinet.net/>
